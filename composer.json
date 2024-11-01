@@ -1,0 +1,17 @@
+{
+    "name": "expresso/elementor-shape-master",
+    "description": "Shape master free elementor shape plugin.",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "mislam933",
+            "email": "47385670+mislam933@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+     "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}
